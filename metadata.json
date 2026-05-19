@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: KIN",
+  "description": "Warm and trusted North African marketplace connecting clients with verified local home and care service workers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
